@@ -494,7 +494,6 @@ class UserConfigurationSuite extends BaseSuite {
     "protobuf"
   ],
   "definitionIndexStrategy": "classpath",
-  "javaOutlineProvider": "javac",
   "protoOutlineProvider": "v1",
   "javaSymbolLoader": "turbine-classpath",
   "javaTurbineRecompileDelay": "100 milliseconds",
